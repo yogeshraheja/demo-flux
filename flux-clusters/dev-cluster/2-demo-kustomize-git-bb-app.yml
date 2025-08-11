@@ -12,3 +12,4 @@ spec:
     kind: GitRepository
     name: 2-demo-source-git-bb-app
   targetNamespace: 2-demo
+  # Test
